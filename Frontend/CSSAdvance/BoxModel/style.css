@@ -1,0 +1,82 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: #eceef1;
+    text-align: center;
+    height: 650px;
+    position: relative;
+}
+.form{
+    font-weight: 700;
+    width: 350px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+.form header{
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    position: relative;
+}
+font{
+    position: absolute;
+    top: 5px;
+    right: 20px;
+    font-size: 20px;
+    font-weight: 100;
+}
+.main-form{
+    padding: 5px;
+    position: relative;
+    top: 10px;
+}
+.main-form .main-form-label{
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    padding-bottom: 10px;
+    font-size: 14px;
+}
+.main-form .main-form-input{
+    margin-top: 20px;
+    width: 90%;
+    padding: 6px;
+    background-color: #f7f7f7;
+    border: none;
+    border-radius: 5px;
+}
+.main-form-label a{
+    position: relative;
+    left: 135px;
+    text-decoration: none;
+    font-weight: 100;
+    color: #2f81ec;
+}
+.btn{
+    margin-top: 15px;
+    font-weight: 100;
+    cursor: pointer;
+    border-radius: 20px;
+    border: none;
+    padding: 12px;
+    font-size: 14px;
+}
+.btn .btn-submit.btn-signin{
+    width: 90%;
+    color: white;
+    background-color: #00be6d;
+    
+}
+.btn .btn-submit.btn-choose{
+    font-weight: 600;
+}
+.btn-text-span{
+    margin-top: 10px;
+}
+
