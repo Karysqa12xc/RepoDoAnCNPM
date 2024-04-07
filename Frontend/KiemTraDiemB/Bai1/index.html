@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tính tổng các số nguyên tố trong khoảng</title>
+    <script src="app.js"></script>
+    
+</head>
+
+<body>
+    <form onsubmit="return false;">
+        <h1>Nhập hai số nguyên a và b(a < b)</h1>
+        <div>
+            <label><b>a:</b></label>
+            <input type="text" name="soa">
+        </div>
+        <div>
+            <label><b>b:</b></label>
+            <input type="text" name="sob">
+        </div>
+        <input onclick="tinhTongCacSoNguyenTo()"  type="submit" value="tính tổng các số nguyên tố">
+    </form>
+    <div id="result"></div>
+    <br/>
+    
+</body>
+</html>

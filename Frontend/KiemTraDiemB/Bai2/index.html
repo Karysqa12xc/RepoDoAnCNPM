@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>In ra hình tam giác</title>
+    <script>
+        function numberOneTriangle(length){
+            let Triangle = "";
+            let result = document.getElementById("result");
+            for (let i = 1; i <= length; i++) {
+              for (let j = 1; j <= i; j++) {
+                Triangle += "* ";
+              }
+              Triangle += "\<br>";
+            }
+            result.innerHTML = Triangle;
+        }
+    </script>
+</head>
+<body>
+    <form onsubmit="return false;" name="TriangleShape">
+        <h1>In hình tam giác</h1>
+        <div>
+            <label><b>Nhập giá trị:</b></label>
+            <input type="number" name="Length">
+        </div>
+        <input value="In Hình Tam giác" type="submit" onclick="numberOneTriangle(TriangleShape.Length.value)">
+    </form>
+    <div id="result"></div>
+</body>
+</html>
