@@ -1,0 +1,15 @@
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\bin\Debug\net8.0\KiemTraDiemA.exe
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\bin\Debug\net8.0\KiemTraDiemA.deps.json
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\bin\Debug\net8.0\KiemTraDiemA.runtimeconfig.json
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\bin\Debug\net8.0\KiemTraDiemA.dll
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\bin\Debug\net8.0\KiemTraDiemA.pdb
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.AssemblyInfoInputs.cache
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.AssemblyInfo.cs
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.csproj.CoreCompileInputs.cache
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.sourcelink.json
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.dll
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\refint\KiemTraDiemA.dll
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.pdb
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\KiemTraDiemA.genruntimeconfig.cache
+D:\Workspace\HTML_CSS_JavaScript\LearnOnClassDoAnCNPM\Frontend\KiemTraDiemA\obj\Debug\net8.0\ref\KiemTraDiemA.dll
